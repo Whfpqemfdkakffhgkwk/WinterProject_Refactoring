@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4cd3455dbf6ee41be2f7e5009ac725, type: 3}
+  m_Name: YangBad
+  m_EditorClassIdentifier: 
+  storyData:
+  - Speech: "\uC870\uAE08\uB9CC \uB354 \uC9C4\uC9C0\uD558\uAC8C \uC0DD\uAC01 \uD574
+      \uC8FC\uC138\uC694.."
+    Talker: 0
+    Yang: 4
+    Kang: 12
+    Baek: 11
+  - Speech: "\u2026\u2026 \uADF8\uB7EC\uC2DC\uAD70\uC694\u2026"
+    Talker: 0
+    Yang: 1
+    Kang: 12
+    Baek: 11
+  - Speech: "\uCDE8\uD5A5\uC740 \uC874\uC911 \uD574 \uB4DC\uB9B4\uAC8C\uC694\u2026"
+    Talker: 0
+    Yang: 2
+    Kang: 12
+    Baek: 11
+  - Speech: "\uADF8..\uADF8\uB807\uC8E0.. \uC8C4\uC1A1\uD574\uC694 \uB3C4\uC640\uC8FC\uC2DC\uACE0
+      \uACC4\uC2E0\uB370.. \uC81C\uAC00 \uC4F8\uB370 \uC5C6\uB294 \uC18C\uB9AC\uB97C"
+    Talker: 0
+    Yang: 4
+    Kang: 12
+    Baek: 11
+  - Speech: "\uCC45 \uC77D\uC744 \uB54C \uBD88\uD3B8\uD55C\uAC8C \uB354 \uC2EB\uC740
+      \uAC78\uC694"
+    Talker: 0
+    Yang: 9
+    Kang: 12
+    Baek: 11
+  - Speech: "\uC544\u2026. \uB124\u2026"
+    Talker: 0
+    Yang: 2
+    Kang: 12
+    Baek: 11
+  - Speech: "\uC218\uD559 \uC880 \uBABB \uD558\uB294\uAC8C \uC5B4\uB54C\uC11C\uC694..."
+    Talker: 0
+    Yang: 9
+    Kang: 12
+    Baek: 11
+  - Speech: "\uC5ED\uC2DC \uADF8\uB7F4\uC9C0\uB3C4 \uBAA8\uB974\uACE0\uC694\u2026"
+    Talker: 0
+    Yang: 4
+    Kang: 12
+    Baek: 11
+  - Speech: "\uC804 \uC54C\uB808\uB974\uAE30\uAC00 \uC2EC\uD574\uC11C \uAC00\uBA74
+      \uD070\uC77C \uB098\uC694\u2026"
+    Talker: 0
+    Yang: 1
+    Kang: 12
+    Baek: 11
+  - Speech: "\uC5BC\uC5B4 \uC8FD\uC744\uC9C0\uB3C4 \uBAB0\uB77C\uC694\u2026"
+    Talker: 0
+    Yang: 2
+    Kang: 12
+    Baek: 11

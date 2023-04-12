@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4cd3455dbf6ee41be2f7e5009ac725, type: 3}
+  m_Name: KangDialogue
+  m_EditorClassIdentifier: 
+  storyData:
+  - Speech: "\uB0B4\uAC00 \uC78A\uC5B4\uBC84\uB9B0 \uCD94\uC5B5\uC774\uB77C\uB294\uAC8C
+      \uBB58\uAE4C? \uB108\uB294 \uC9D0\uC791\uAC00\uB294 \uAC70 \uC788\uC5B4? \uB098\uB791
+      \uC81C\uC77C \uC624\uB7AB\uB3D9\uC548 \uAC19\uC774 \uC9C0\uB0C8\uC796\uC544 "
+    Talker: 1
+    Yang: 10
+    Kang: 3
+    Baek: 11
+  - Speech: "\uC815\uB9D0 \uC774 \uC0C1\uD0DC\uB85C \uBABB \uB3CC\uC544\uAC00\uBA74
+      \uC5B4\uCA4C\uC9C0... \uAC00\uC871\uB4E4 \uC870\uCC28 \uB0A0 \uAE30\uC5B5\uD558\uC9C0
+      \uBABB \uD558\uB294 \uAC78..."
+    Talker: 1
+    Yang: 10
+    Kang: 6
+    Baek: 11
+  - Speech: "\uC544- \uB108 \uADF8\uAC70 \uC0DD\uAC01 \uB098? \uC5B4\uB838\uC744
+      \uB54C \uAC19\uC774 \uB180\uB2E4\uAC00 \uB124\uAC00 \uB118\uC5B4\uC838\uC11C
+      \uC5C4\uCCAD \uC6B8\uC5C8\uC5C8\uC796\uC544!"
+    Talker: 1
+    Yang: 10
+    Kang: 7
+    Baek: 11
+  - Speech: "\uC624\uB79C\uB9CC\uC5D0 \uC790\uC8FC \uAC00\uB358 \uCE74\uD398\uC5D0
+      \uAC00\uACE0 \uC2F6\uC5B4~ \uC9C0\uAE08 \uC774 \uC0C1\uD0DC\uB85C\uB294 \uBB34\uB9AC
+      \uACA0\uC9C0\uB9CC "
+    Talker: 1
+    Yang: 10
+    Kang: 3
+    Baek: 11
+  - Speech: "\uB9DE\uC544 \uADF8\uB7EC\uACE0 \uBCF4\uB2C8\uAE4C \uB0B4 \uBA38\uB9AC\uC5D0
+      \uD558\uB298\uC0C9 \uB9AC\uBCF8 \uB9D0\uC774\uC57C \uC0C8\uB85C \uC0B0 \uAC74\uB370
+      \uB098\uB791 \uC798 \uC5B4\uC6B8\uB824? "
+    Talker: 1
+    Yang: 10
+    Kang: 3
+    Baek: 11
+  - Speech: "\uC5B4\uC81C \uB208\uC774 \uC655\uCC3D \uB0B4\uB9AC\uB354\uB2C8 \uAC00\uB4DD
+      \uC313\uC600\uB124~"
+    Talker: 1
+    Yang: 10
+    Kang: 0
+    Baek: 11
+  - Speech: "\uADF8\uB7EC\uACE0 \uBCF4\uB2C8 \uC0C8 \uD559\uAE30 \uC2DC\uC791\uC774\uB2C8\uAE4C
+      \uB610 \uB2E4\uC2DC \uC911\uAC04,\uAE30\uB9D0 \uC9C0\uC625\uC774\uACA0\uB124\u2026"
+    Talker: 1
+    Yang: 10
+    Kang: 1
+    Baek: 11
+  - Speech: "\uACE0\uC591\uC774\uB098 \uAC15\uC544\uC9C0\uB4E4\uC740 \uC0AC\uB78C\uB208\uC5D0
+      \uC548 \uBCF4\uC774\uB294 \uAC78 \uBCF8\uB2E4\uACE0 \uD558\uC796\uC544 \uADF8\uB7FC
+      \uACE0\uC591\uC774\uB098 \uAC15\uC544\uC9C0\uB4E4 \uB208\uC5D0\uB294 \uB0B4\uAC00
+      \uBCF4\uC77C\uAE4C? "
+    Talker: 1
+    Yang: 10
+    Kang: 3
+    Baek: 11
+  - Speech: "\uC870\uAE08 \uB354 \uB530\uB4EF\uD558\uAC8C \uC785\uACE0 \uC62C \uAC78
+      \uADF8\uB7AC\uC5B4.. \uAC10\uAE30 \uAC78\uB9AC\uACA0\uB2E4\u2026"
+    Talker: 1
+    Yang: 10
+    Kang: 1
+    Baek: 11
+  - Speech: "\uC5B4\uB77C? \uB0B4 \uD578\uB4DC\uD3F0 \uC5B4\uB514 \uAC14\uC9C0?"
+    Talker: 1
+    Yang: 10
+    Kang: 4
+    Baek: 11

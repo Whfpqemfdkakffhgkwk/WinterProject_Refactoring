@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4cd3455dbf6ee41be2f7e5009ac725, type: 3}
+  m_Name: BaekBad
+  m_EditorClassIdentifier: 
+  storyData:
+  - Speech: "\uC6B0\uB9AC \uC9C0\uAE08 \uB178\uB294\uAC70 \uC544\uB2C8\uAC70\uB4E0?
+      \uC9C4\uC9C0\uD558\uAC8C \uC880 \uD574\uC904\uB798? "
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 2
+  - Speech: "\uB3C4\uB451\uC774 \uC81C \uBC1C \uC800\uB9AC\uB2E4 \uB77C\uB294 \uC18D\uB2F4
+      \uC54C\uC544?"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 10
+  - Speech: "\uB098\uB791 \uC9C0\uAE08 \uC7A5\uB09C\uD558\uC790\uB294 \uAC70\uC57C?"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 2
+  - Speech: "\uB420\uB9AC \uC5C6\uC796\uC544"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 10
+  - Speech: "\uBD88\uC30D\uD55C \uBD80\uD68C\uC7A5\uC744 \uC880 \uC0DD\uAC01\uD574
+      \uC904\uB798?"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 10
+  - Speech: "\uB2E4 \uADF8\uB807\uACA0\uC9C0 \uC26C\uB294\uAC78 \uC2EB\uC5B4\uD558\uB294
+      \uC0AC\uB78C\uC774 \uC5B4\uB528\uACA0\uC5B4"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 1
+  - Speech: "\uC6B8\uB9AC \uC5C6\uC796\uC544 \uC774\uB7F0 \uC0C1\uD669\uC5D0\uC11C
+      \uC6B0\uB294 \uAC74 \uC544\uBB34 \uB3C4\uC6C0\uB3C4 \uC548\uB418\uB2C8\uAE4C"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 10
+  - Speech: "\uC720\uAC10\uC774\uAE34 \uD558\uC9C0\uB9CC \uC874\uC7AC \uC790\uCCB4\uAC00
+      \uC0AC\uB77C\uC9C4 \uC0AC\uB78C\uC55E\uC5D0\uC11C \uB108\uBB34 \uC808\uB9DD\uC2A4\uB7EC\uC6CC
+      \uD558\uB294\uAC70 \uC544\uB2C8\uC57C? "
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 10
+  - Speech: "\uC5BC\uAD74\uB85C \uC0AC\uB78C\uBCF4\uB294 \uB188\uB4E4\uC774 \uC81C\uC77C
+      \uB098\uC05C \uAC70 \uC54C\uC544?"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 2
+  - Speech: "\u2026\uB3C8\uC740 \uCC29\uC2E4\uD558\uAC8C \uC77C \uD574\uC11C \uBC8C\uC5B4"
+    Talker: 2
+    Yang: 10
+    Kang: 12
+    Baek: 1
